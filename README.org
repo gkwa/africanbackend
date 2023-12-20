@@ -1,0 +1,14 @@
+* africanbackend
+
+** summary
+
+This is a description of project africanbackend.
+
+** usage
+
+Example:
+#+begin_example
+make test
+./africanbackend --help
+./africanbackend --log-level=debug
+#+end_example
